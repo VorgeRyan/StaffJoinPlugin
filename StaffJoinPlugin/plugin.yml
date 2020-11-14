@@ -1,0 +1,5 @@
+name: StaffJoinPlugin
+main: vorge\StaffJoinPlugin\Main
+author: vorge
+api: [4.0, 3.0]
+version: 1.0
